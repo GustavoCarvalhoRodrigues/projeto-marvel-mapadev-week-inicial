@@ -1,5 +1,5 @@
 # projeto-marvel-mapadev-week-inicial
- porjeto marvel
+ projeto marvel
 
 
 ![Marvel_Logo](https://user-images.githubusercontent.com/90417550/173969967-61b85b52-3f12-497c-8c31-93f09cee921e.png)
